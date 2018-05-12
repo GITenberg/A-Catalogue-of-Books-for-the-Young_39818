@@ -1,0 +1,33 @@
+_repo: A-Catalogue-of-Books-for-the-Young_39818
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Griffith, Farran, Okeden & Welsh
+    alias: Griffith, Farran, Okeden and Welsh
+    gutenberg_agent_id: '40201'
+    url: http://www.gutenberg.org/2009/agents/40201
+  - agent_name: E.P. Dutton (Firm)
+    aliases:
+    - E.P. Dutton & Company
+    - Dutton (E. P.) and Company
+    - E.P. Dutton & Co.
+    - Dutton (Firm)
+    gutenberg_agent_id: '40193'
+    url: http://www.gutenberg.org/2009/agents/40193
+description: ''
+gutenberg_issued: '2012-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Children''s books -- Catalogs'
+title: A Catalogue of Books for the Young
+url: http://www.gutenberg.org/ebooks/39818
